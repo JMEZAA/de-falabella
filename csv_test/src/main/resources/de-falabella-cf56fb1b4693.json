@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "de-falabella",
+  "private_key_id": "cf56fb1b4693be38049997064769948ffaf3c4e4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCm6+/Ay1jFruaO\nFB6mrQBXUDooTQ6Y+AGuTX8rdYNxowjcA2aF4+FZEZLPKe9eb6N1lWnapkY3ZxtW\nwHw3H+G4BnZeSLatwpQJp3z615Hr3I7c/6D+4t0eD+/hzFBpWQfG8Z0/+CNsrmNW\no3Pvj8myJJdsOovqiKB0XVoUd5Cu57tpuCpEG24UhfwQXCiDB352uaLrbes6A/v2\n72TEtUbo5VefZA8PPgOaclPcxKmkTGU9YqBPhAXhieMR/tjpUAoWip9Z2KUnqfBT\nFcfLKdaJd2SSDAq7N6/un/xi8RdYbmy/vWOcunPsLMEcDSEn3JBkZ0uW7hbxm9Ck\nzbbus4GBAgMBAAECggEABIaCsRogPJiLN5KTAclAoEVghMSBTPdTFhdzt1Uh3pEt\nQ6f/0ekjnD5bQdyi6L8/hffqcy0hK+YKsCyC95yAolRiRdhMQ9fpyxzWYQ96bUPd\nH4+qhPOIC7VCV1+Kde82BEw7U3NP/E2qa7w958Kg7PiEDpEUJ1Q7v6ji4Pl8f6nl\nZ7UrVmxzY5gMnIaaYyoJaDB/LbDjiS/5bb1D7TXY6BF+lke/ACVVcacX83UyRH8k\nJSXZv6aUjI2onWC6b1p0yT8ZjCkQXIM1vIs5IRX4oZZ05JPROlvQoxB8IKBA07VP\nB2RxVzrkkBguyhYC659sN6dxs20JXyZzmpId1NnuYQKBgQDW4ff0IJckmwY2DwB9\ngSa/PuQXhL+mld4t/QvDGBPkJ+7JS7PWFDl6RmXltrbHQyxw+g+ywJlbxUnryVfu\nNrEiTrVwMtSzsEZ1VGidKSPD5UOMQrcXNNaG8Tg1d4oa0h0XBuYtz65s6vt3DVEb\nVuYZfpUqwufPX3qeqKSyowzcIQKBgQDG3Jg8bcs6j3CWn5mSe+4E5ek9Vhe+Otml\nS+tzdsSNOGATxg3TWyukNLEr8xwFcbrSD4lZ86v5XfYXYawyvWgMjz0sMoDYN/y/\nGp2rwb0QjFp/VvE9SXRGIlJwXpuIfJc5kf85/Yzv/C6OExFMsrufGUU4WshJVf4O\nlmKLzbj5YQKBgGJUyYiXmVKQ9kiqmMjV3wtJFkuE3ca3chKNZ2KBlCil9Wl8EPF4\nE81Wha6W7BFHNgEFDUX5SLRsFaWmX2yM7oYKipCrUhZgJf3vAGhauRkdwslehjZC\nYaEipVwiNbqMR++Poql4DhOdfDFAkMr3+xfTiyMkSbvlr1EHT0bHwkzBAoGAcNmo\njspjxSS3aNLDbMxlY2QxezxLFwoAjvxJbmnc2qM+apo/KE0ZtAKu9Fju8uv6b9Cf\nSmuskUPQLq6f8N9pl48F0PoMAierh6uMBHdaWnS7un3VQslXcaFylRArRUYm72W5\np+gKPfonVTre216meH/3tyZVeMCS/yY6YEnriaECgYBw1acSZoktbb3v9gqi0U2H\nB3RxtXHKkup3AFYkor/QC2/l6gKNgg709L4qi66+x8VLkLMszS2z/1A/eZ6O2e4A\nY67BfqG8HAc1IipU0Z6da7P5aemjUvTKBHgw37QLQ1Fds5KD+csXGqRwlE0popLK\noA86t1SksWlQaAPRs3/Xfw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "falabella-acount@de-falabella.iam.gserviceaccount.com",
+  "client_id": "106017586455331853674",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/falabella-acount%40de-falabella.iam.gserviceaccount.com"
+}
