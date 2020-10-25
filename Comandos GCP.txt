@@ -1,0 +1,5 @@
+-- Comando para subir imagen al container registry, e implementación de clud run
+
+docker build -t gcr.io/de-falabella/process-csv-bucket .
+gcloud builds submit --tag gcr.io/de-falabella/process-csv-bucket
+gcloud run deploy test-de-cr --image gcr.io/de-falabella/process-csv-bucket

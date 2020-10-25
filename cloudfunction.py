@@ -21,5 +21,6 @@ def main(event, context):
 
 	#topic = publisher.create_topic(request={"name": topic_path})
 	#print("Created topic: {}".format(topic.name))
-	
-	publisher.publish(topic_path, b'gs://{}/{}'.format(event['bucket'],event['name']), spam='eggs')
+	message = 'gs://{}/{}'.format(event['bucket'],event['name']).encode()
+	publisher.publish(topic_path, message, spam='eggs')
+	print('Se envío mensaje al topico')
